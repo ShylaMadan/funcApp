@@ -1,0 +1,17 @@
+{
+    "name": "hello-world-function",
+    "version": "1.0.0",
+    "description": "A simple hello world function app",
+    "main": "index.js",
+    "scripts": {
+      "start": "func host start"
+    },
+    "dependencies": {
+      "azure-functions-core-tools": "^3.0.0"
+    },
+    "devDependencies": {},
+    "engines": {
+      "node": "14.x"
+    }
+  }
+  
